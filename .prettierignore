@@ -1,0 +1,7 @@
+# Common ignores
+node_modules
+dist
+build
+coverage
+.next
+.vercel 
