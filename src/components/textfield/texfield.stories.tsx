@@ -146,9 +146,9 @@ import { TextField } from './components/textfield';
 export default meta;
 type Story = StoryObj<typeof TextField>;
 
-export const Default: Story = {
+export const Playground: Story = {
   args: {
-    label: 'Default Text Field',
+    label: 'Playground Text Field',
     value: '',
     placeholder: 'Enter text here',
   },
